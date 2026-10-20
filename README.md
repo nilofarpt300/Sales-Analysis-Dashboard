@@ -1,2 +1,3 @@
-# Sales-Analysis-Dashboard
-An interactive Dashboard project built in Microsoft Excel, to analyse coffee  sales trends, track key performance indicators(KPIs), and uncover customer and market insights using Pivot Tables, Pivot charts, XLOOKUP, data visualisation and interactive filters.
+# Coffee-Sales-Analysis Dashboard(Interactive Dashboard creation using Excel)
+## Executive Summary
+Developed an interactive Coffee Sales Dashboard to evaluate sales performance, monitor key business metrics and identify revenue growth opportunities. Analysed customer purchasing behaviour, product performance, and country level sales trends using Microsoft Excel. Translated sales data into actionable insights to support strategic planning, improves sales monitoring, and inform customer retention and market expansion decisions.
