@@ -24,7 +24,8 @@ Developed an interactive Coffee Sales Dashboard to evaluate sales performance, m
   The dashboard enables users to explore sales trends, compare market performance, understand customer purchasing patterns and identify potential growth opportunities.
 #  Project Files
 https://github.com/nilofarpt300/Sales-Analysis-Dashboard/blob/main/coffeeOrdersDatafinal.xlsx
-https://github.com/nilofarpt300/Sales-Analysis-Dashboard/blob/main/Coffee%20sales%20Dashboard.png
 # Dashboard
 <img width="875" height="384" alt="Coffee sales Dashboard" src="https://github.com/user-attachments/assets/139a6f16-5122-46cc-90bc-62f0ca8b7f94" />
-
+# Project Outcome
+Developed a decision-support dashboard that demonstrates the practical application of Excel for business analysis. The project showcases the ability to prepare and enrich data using lookup formulas, calculate and monitor KPIs, analyse performance with Pivot Tables and Pivot Charts and communicate findings through interactive visualisations.
+The final provides a repeatable reporting structure for evaluating sales trends, customer performance, product demand and market opportunities. It demonstrates how Excel skills can be applied to improve analytical visibility, streamline performance reporting and support data-driven commercial decisions.
