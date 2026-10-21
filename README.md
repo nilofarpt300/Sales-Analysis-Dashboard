@@ -25,4 +25,6 @@ Developed an interactive Coffee Sales Dashboard to evaluate sales performance, m
 #  Project Files
 https://github.com/nilofarpt300/Sales-Analysis-Dashboard/blob/main/coffeeOrdersDatafinal.xlsx
 https://github.com/nilofarpt300/Sales-Analysis-Dashboard/blob/main/Coffee%20sales%20Dashboard.png
-    
+# Dashboard
+<img width="875" height="384" alt="Coffee sales Dashboard" src="https://github.com/user-attachments/assets/139a6f16-5122-46cc-90bc-62f0ca8b7f94" />
+
