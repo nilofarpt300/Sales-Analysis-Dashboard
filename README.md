@@ -23,4 +23,5 @@ Developed an interactive Coffee Sales Dashboard to evaluate sales performance, m
   # Key Business Value
   The dashboard enables users to explore sales trends, compare market performance, understand customer purchasing patterns and identify potential growth opportunities.
 #  Project Files
+
     
