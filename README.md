@@ -14,13 +14,13 @@ Developed an interactive Coffee Sales Dashboard to evaluate sales performance, m
 * Interactive Slicers and Timelines.
 * Data Visualisation and Dashboard Development.
 * Business Intelligence and Sales Analysis.
-  # Key Performance Indicators
+# Key Performance Indicators
   * Total Sales Revenue
   * Monthly Sales Performance
   * Sales by Country
   * Top Five Customers
   * Product Sales Performance
-  # Key Business Value
+# Key Business Value
   The dashboard enables users to explore sales trends, compare market performance, understand customer purchasing patterns and identify potential growth opportunities.
 #  Project Files
 https://github.com/nilofarpt300/Sales-Analysis-Dashboard/blob/main/coffeeOrdersDatafinal.xlsx
